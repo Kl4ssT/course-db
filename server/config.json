@@ -1,0 +1,6 @@
+{
+    "database": "db-client",
+    "username": "azklasst",
+    "password": "p57e4342",
+    "dialect": "mssql"
+}
